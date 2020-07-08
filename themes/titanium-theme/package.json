@@ -1,0 +1,12 @@
+{
+        "sn": {
+                "main": "dist.css"
+        },
+        "identifier": "sn.sn-extensions.titanium-theme",
+        "name": "Titanium",
+        "content_type": "SN|Theme",
+        "version": "1.2.2",
+        "description": "Titanium.",
+        "url": "https://raw.githubusercontent.com/orestarod/sn-themes/master/better-solarized-dark/package.json",
+        "download_url": "https://github.com/sn-extensions/titanium-theme/archive/1.2.2.zip"
+}
