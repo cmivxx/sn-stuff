@@ -1,0 +1,9 @@
+{
+        "identifier": "sn.sn-extensions.folders",
+        "name": "Folders",
+        "content_type": "SN|Component",
+        "version": "1.3.3",
+        "description": "Folders.",
+        "url": "https://raw.githubusercontent.com/cmivxx/sn-stuff/master/extensions/folders/package.json",
+        "download_url": "https://github.com/standardnotes/folders-component/archive/1.3.3.zip"
+}
