@@ -7,6 +7,6 @@
         "content_type": "SN|Component",
         "version": "1.3.6",
         "description": "Markdown.Basic.",
-        "url": "https://raw.githubusercontent.com/orestarod/sn-themes/master/better-solarized-dark/package.json",
+        "url": "https://raw.githubusercontent.com/cmivxx/sn-stuff/master/extensions/markdown-basic/package.json",
         "download_url": "https://github.com/sn-extensions/markdown-basic/archive/1.3.6.zip"
 }
